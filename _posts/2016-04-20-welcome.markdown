@@ -4,4 +4,6 @@ title:  "Welcome"
 date:   2016-04-20 13:26:25 -0700
 categories: General
 ---
-Hi everybody, this is my first post on this blog and it is also my first post to any blog.  I am currently going through the Full stacks program at Learn.co and I just finished making my first Ruby gem.  The gem lists the top 10 links in r/news and allows you to see the top comment for the link.  [Reddit News CLI gem][https://github.com/robmcarrier/reddit-news-cli/]
+Hi everybody, this is my first post on this blog and it is also my first post to any blog.  I am currently going through the Full stacks program at Learn.co and I just finished making my first Ruby gem.  The gem lists the top 10 links in r/news and allows you to see the top comment for the link.  [Reddit News CLI gem][reddit-news]
+
+[reddit-news]: https://github.com/robmcarrier/reddit-news-cli
