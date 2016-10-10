@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Sinatra Evaluation"
+date:   2016-04-30 13:26:25 -0700
+categories: General
+---
+
+Hi everyone again.  I just finished another evaluation but this time it is in Sinatra.  I made a app that lets you make a list(to-do, grocery etc), add items to that list and delete items.
+[Link to Github][link-to-git]
+
+[link-to-git]: https://github.com/robmcarrier/to-do

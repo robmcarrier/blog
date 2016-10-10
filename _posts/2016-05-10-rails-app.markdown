@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Rails App"
+date:   2016-05-10 13:26:25 -0700
+categories: General
+---
+
+Hello again! This time I am back with a Rails app.  It is a recipe application that allows you to sign in and post recipes.  [Link to Github Repo][link-to-git]
+
+[link-to-git]: https://github.com/robmcarrier/recipe-list
