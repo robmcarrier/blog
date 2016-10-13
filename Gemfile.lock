@@ -107,6 +107,10 @@ GEM
       pkg-config (~> 1.1.7)
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
+    octopress-hooks (2.6.2)
+      jekyll (>= 2.0)
+    octopress-paginate (1.2.0)
+      octopress-hooks
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     pkg-config (1.1.7)
@@ -134,8 +138,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-paginate
   minima
+  octopress-paginate
 
 RUBY VERSION
    ruby 2.3.1p112
