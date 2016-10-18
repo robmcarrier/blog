@@ -21,8 +21,10 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://robmcarrier.github.io" # the base hostname & protocol for your site
 twitter_username: robmcarrier
 github_username:  robmcarrier
-gems:
-  - octopress-paginate
+permalink:           pretty
+
+paginate: 3
+
 
 
 # Build settings
