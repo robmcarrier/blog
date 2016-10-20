@@ -3,6 +3,7 @@ layout: post
 title:  "Ruby vs Python"
 date:   2016-09-28 13:26:25 -0700
 categories: General
+excerpt: Which is better?
 ---
 
 Which is better? Since I am a graduate of Flatiron School there is a special place in my heart for Ruby and Ruby on Rails but recently I have joined a small start-up and their stack is Python with Django.  After going through the Django docs and trying to figure out how to get things working in Python I can say that they are pretty much the same thing.  The syntax of  Python reminds me of Javascript(colons) but thats the only difference I notice between the two.  I know there are technical differences between the languages but for the most part they are able to do the same thing.  Personally, Ruby looks the most readable to me but Python isn't hard to understand either.
